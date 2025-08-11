@@ -16,8 +16,8 @@ const Projects = () => {
       description: "A modern, responsive portfolio website showcasing my work and skills. Built with React.js and Tailwind CSS featuring dark theme and smooth animations.",
       image: portfolioImg,
       tech: ["React.js", "Tailwind CSS", "TypeScript"],
-      github: "#",
-      live: "#"
+      github: "https://github.com/techbydeepak/namandigital_task1_portfolio",
+      live: "https://techbydeepak.github.io/namandigital_task1_portfolio/"
     },
     {
       id: 2,
