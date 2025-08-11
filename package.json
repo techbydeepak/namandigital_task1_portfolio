@@ -2,6 +2,7 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://techbydeepak.github.io/namandigital_task1_portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +13,7 @@
      "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://techbydeepak.github.io/deepak-dev-folio-main",
+  
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
