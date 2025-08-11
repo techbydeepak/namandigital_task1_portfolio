@@ -34,8 +34,8 @@ const Projects = () => {
       description: "A fully responsive e-commerce product showcase with shopping cart functionality, product filtering, and payment integration. Modern UI with seamless user experience.",
       image: ecommerceImg,
       tech: ["Next.js", "Tailwind CSS", "Stripe"],
-      github: "#",
-      live: "#"
+      github: "https://github.com/techbydeepak/namandigital_task3_e_com",
+      live: "https://techbydeepak.github.io/namandigital_task3_e_com/"
     },
     {
       id: 4,
@@ -43,8 +43,8 @@ const Projects = () => {
       description: "Real-time weather application providing accurate forecasts, current conditions, and 7-day outlook. Features location-based weather data and interactive maps.",
       image: weatherImg,
       tech: ["React.js", "Weather API", "Chart.js"],
-      github: "#",
-      live: "#"
+      github: "https://github.com/techbydeepak/namandigital_task2_weatherWeb",
+      live: "https://techbydeepak.github.io/namandigital_task2_weatherWeb/"
     },
     {
       id: 5,
