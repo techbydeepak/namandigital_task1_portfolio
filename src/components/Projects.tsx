@@ -21,12 +21,12 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Cooking Recipe Website",
+      title: "Cooking Recipe Blog",
       description: "A comprehensive recipe platform where users can discover, save, and share cooking recipes. Features include ingredient lists, step-by-step instructions, and user reviews.",
       image: cookingImg,
       tech: ["React.js", "Node.js", "MongoDB"],
-      github: "#",
-      live: "#"
+      github: "https://github.com/techbydeepak/namandigital_task4-cooking-blog",
+      live: "https://namandigital-task4-cooking-blog.vercel.app/"
     },
     {
       id: 3,
