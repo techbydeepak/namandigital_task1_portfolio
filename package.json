@@ -2,7 +2,7 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://techbydeepak.github.io/namandigital_task1_portfolio/",
+   "homepage": "https://techbydeepak.github.io/namandigital_task1_portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
