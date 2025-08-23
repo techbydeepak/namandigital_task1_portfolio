@@ -1,5 +1,8 @@
 # namandigital_task1_portfolio
 
+
+link live project -- "https://techbydeepak.github.io/namandigital_task1_portfolio/"
+
 ## Project Info
 This is my portfolio project for **Naman Digital Internship — Task 1**.  
 It is a responsive, modern portfolio site built using React, TypeScript, Vite, Tailwind CSS, and shadcn-ui.
